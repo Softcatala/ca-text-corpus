@@ -1874,14 +1874,12 @@ Mama!
 Manelic!
 Mare de Déu!
 Mare meva!
-Mare meva.
 Mare!
 Mare, tingueu pietat.
 Marta!
 Marxem.
 Marxem?
 Marxeu!
-Marxeu.
 Massa tard.
 Massa.
 Me n'alegro.
@@ -1901,7 +1899,6 @@ Menjar.
 Menteix.
 Mentia.
 Mentida!
-Mentida.
 Mentider!
 Mentides.
 Menut.
@@ -1947,6 +1944,7 @@ Molt interessant.
 Molt malament.
 Molt millor.
 Molt pitjor.
+Molt prompte.
 Molt ràpidament.
 Molt.
 Molta sort.
@@ -1954,16 +1952,9 @@ Molta.
 Moltes coses.
 Moltes gràcies a totes i a tots.
 Moltes gràcies a tothom.
-Moltes gràcies a tots.
 Moltes gràcies per la seva atenció.
 Moltes gràcies, conseller.
-Moltes gràcies, diputada.
-Moltes gràcies, diputat.
 Moltes gràcies, diputats i diputades.
-Moltes gràcies, honorable conseller.
-Moltes gràcies, honorable presidenta.
-Moltes gràcies, il·lustres diputats i diputades.
-Moltes gràcies, senyors diputats, senyores diputades.
 Moltes gràcies.
 Moltes.
 Molts diners.
