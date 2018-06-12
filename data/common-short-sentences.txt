@@ -2234,11 +2234,8 @@ No pots.
 No publicarem els comentaris.
 No puc dormir.
 No puc més!
-No puc més.
-No puc!
 No puc.
 No recordo res.
-No res!
 No res.
 No s'amoïni.
 No s'entén.
@@ -2305,6 +2302,7 @@ No trigaré.
 No troba?
 No trobes?
 No té cap sentit.
+No té gens d'importància.
 No té importància.
 No té ningú.
 No té pèrdua.
@@ -2360,7 +2358,6 @@ No és tan difícil.
 No és tan fàcil.
 No és veritat –no és veritat.
 No és veritat!
-No és veritat.
 No és veritat?
 No, de cap manera.
 No, eh?
@@ -2503,7 +2500,6 @@ Para!
 Paraula.
 Paraules.
 Pare!
-Pare.
 Pareu!
 Parla!
 Parla.
