@@ -1,4 +1,3 @@
-A aquest efecte.
 A baix.
 A casa.
 A continuació té la paraula el senyor diputat.
@@ -59,12 +58,10 @@ Ai!
 Ai, ai!
 Ai, caram!
 Ai, Déu meu!
-Ai, Déu meu.
 Ai, mare!
 Ai, merda.
 Ai, Senyor!
 Aigua!
-Aigua.
 Aixeca't!
 Així de clar.
 Així de fàcil.
@@ -146,7 +143,6 @@ Això!
 Això, per una banda.
 Ajuda'm.
 Ajudeu-me!
-Al contrari!
 Al contrari.
 Al mar!
 Alabat sia Déu!
@@ -476,19 +472,8 @@ Com és?
 Com?
 Comencem la votació.
 Comencem.
-Comença la votació del punt 1.
 Comença la votació del punt 2.
 Comença la votació.
-Comissió d'Agricultura, Ramaderia, Pesca, Alimentació i Medi Natural.
-Comissió d'Economia i Hisenda.
-Comissió d'Ensenyament i Universitats.
-Comissió de Benestar, Família i Immigració.
-Comissió de Justícia, Dret i Seguretat Ciutadana.
-Comissió de la Sindicatura de Comptes.
-Comissió de Medi Ambient i Habitatge.
-Comissió de Peticions.
-Comissió de Política Cultural.
-Comissió de Territori i Sostenibilitat.
 Completament d'acord.
 Completament.
 Comprenc.
@@ -502,8 +487,6 @@ Comunitat Valenciana.
 Conclusió.
 Confia en mi.
 Confio en tu.
-Conselleria d'Economia Sostenible, Sectors Productius, Comerç i Treball.
-Conselleria d'Educació, Investigació, Cultura i Esport.
 Content?
 Contesta!
 Contesta.
@@ -645,7 +628,6 @@ Disculpeu-me.
 Disculpi.
 Disposició addicional.
 Disposició transitòria.
-Dolor.
 Doncs això.
 Doncs bé!
 Doncs bé.
@@ -726,7 +708,6 @@ El recordem amb 14 pensaments seus.
 El segon punt.
 El segon.
 El següent!
-El seu cos d'exèrcit constava de vint-i-quatre mil homes.
 El seu somriure va desaparèixer.
 El sol es ponia.
 El telèfon va sonar.
@@ -1747,9 +1728,6 @@ Jo també t'estimo.
 Jo també.
 Jo tampoc.
 Jo vaig assentir.
-Jo!
-Jo, no.
-Jo, sí.
 Jo.
 Jo?
 Junts.
@@ -1799,7 +1777,6 @@ La por.
 La porta era oberta.
 La porta era tancada.
 La porta es va obrir de cop.
-La porta es va obrir.
 La porta estava oberta.
 La porta és oberta.
 La primera.
@@ -1852,7 +1829,6 @@ Llistes d'espera.
 Lliure!
 Lloat sia Déu!
 Lluny.
-Llàstima!
 Llàstima.
 M'agrada.
 M'agradava.
@@ -2249,7 +2225,6 @@ No n'hi havia cap dubte.
 No n'hi havia cap.
 No necessàriament.
 No només això.
-No parlis més del bell ahir.
 No pas jo.
 No pas.
 No passa re.
@@ -2544,7 +2519,6 @@ Papà.
 Para!
 Paraula.
 Paraules.
-Pare Nostre que esteu en el cel, sigui santificat el vostre nom, vingui a nosaltres el vostre regne.
 Pare!
 Pare.
 Pareu!
@@ -2846,14 +2820,12 @@ Punt 1.
 Punt 2.
 Punt final.
 Punt.
-Punto.
 Punyeta!
 Pànic.
 Pòrtic.
 Qualsevol cosa.
 Quan vulguis.
 Quan?
-Quant de temps.
 Quant de temps?
 Quant?
 Quantes vegades?
@@ -2885,7 +2857,6 @@ Que no ho veieu?
 Que no ho veus?
 Que no te n'adones?
 Que no!
-Que no.
 Que no?
 Que passa res?
 Que quedi clar.
@@ -3185,12 +3156,9 @@ Res més lluny de la realitat.
 Res més que això.
 Res més, i moltes gràcies.
 Res més, moltes gràcies.
-Res més, presidenta.
 Res més.
-Res més; moltes gràcies.
 Res més?
 Res no havia canviat.
-Res!
 Res.
 Res?
 Respira fondo.
@@ -3212,7 +3180,6 @@ S'empassa saliva.
 S'equivoca.
 S'equivocava.
 S'està morint.
-S'ha acabat!
 S'ha acabat.
 S'havia acabat.
 S'havia adormit.
@@ -3343,7 +3310,6 @@ Som amics.
 Som germans.
 Som-hi!
 Som-hi, doncs.
-Som-hi.
 Som-hi?
 Somreia.
 Somric.
@@ -3354,7 +3320,6 @@ Sona el telèfon.
 Sonà el telèfon.
 Sorprenent.
 Sort!
-Sort.
 Sortim d'aquí.
 Sospira.
 Sospiro.
@@ -3405,7 +3370,6 @@ Sí, tu.
 Sí, és això.
 Sí, és clar.
 Sí, és veritat.
-Sí.
 Sí?
 Síndic de Greuges.
 Sóc així.
@@ -3766,7 +3730,6 @@ Va tot bé?
 Va trucar a la porta.
 Va trucar.
 Va vacil·lar.
-Va viatjar per tot el món fent reportatges i entrevistes.
 Va!
 Va, anem.
 Va, home, va.
@@ -3871,7 +3834,6 @@ Vinga!
 Vinga, home!
 Vinga, som-hi!
 Vinga, vinga!
-Vinga.
 Vingui.
 Vint anys.
 Vint segons.
