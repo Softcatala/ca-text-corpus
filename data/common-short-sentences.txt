@@ -1683,13 +1683,10 @@ Ja vinc.
 Ja vénen!
 Ja és aquí.
 Ja és massa tard.
-Ja!
 Ja.
 Ja?
 Jack es va quedar de pedra.
-Jaume.
 Jesús!
-Jesús.
 Jo assenteixo amb el cap.
 Jo assenteixo.
 Jo callava.
@@ -1712,10 +1709,8 @@ Jo no ho sé.
 Jo no podria.
 Jo no puc.
 Jo no vaig dir res.
-Jo no!
 Jo no.
 Jo què sé!
-Jo què sé.
 Jo sí que ho sé.
 Jo sí.
 Jo sóc el Senyor, el vostre Déu.
