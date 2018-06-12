@@ -1980,7 +1980,6 @@ Molta sort.
 Molta.
 Moltes coses.
 Moltes gràcies a totes i a tots.
-Moltes gràcies a totes i tots.
 Moltes gràcies a tothom.
 Moltes gràcies a tots.
 Moltes gràcies per la seva atenció.
@@ -3378,7 +3377,6 @@ Sí o no?
 Sí que ho era.
 Sí que ho és.
 Sí senyor!
-Sí!
 Sí, això mateix.
 Sí, gràcies.
 Sí, home!
@@ -3401,7 +3399,6 @@ Sí, senyora.
 Sí, suposo que sí.
 Sí, sí!
 Sí, sí, sí.
-Sí, sí.
 Sí, també.
 Sí, tens raó.
 Sí, tu.
@@ -3627,7 +3624,6 @@ Un llibre.
 Un minut.
 Un moment!
 Un moment, si us plau.
-Un moment.
 Un nen.
 Un petó.
 Un segon.
