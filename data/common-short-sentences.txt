@@ -1548,7 +1548,7 @@ I sap què?
 I saps per què?
 I saps què?
 I se'n va anar.
-I si…?
+I si...?
 I sí.
 I tal dit, tal fet.
 I tant que ho és!
@@ -1623,12 +1623,10 @@ Ja en tinc prou.
 Ja ens veurem.
 Ja era fosc.
 Ja era hora!
-Ja era hora.
 Ja era tard.
 Ja estava.
 Ja està bé.
 Ja està!
-Ja està.
 Ja està?
 Ja et trucaré.
 Ja ha passat.
@@ -1685,7 +1683,7 @@ Ja és aquí.
 Ja és massa tard.
 Ja.
 Ja?
-Jack es va quedar de pedra.
+Jaume es va quedar de pedra.
 Jesús!
 Jo assenteixo amb el cap.
 Jo assenteixo.
@@ -1866,7 +1864,6 @@ Maleït!
 Maleïts siguin!
 Malparit!
 Mama!
-Manelic!
 Mare de Déu!
 Mare meva!
 Mare!
