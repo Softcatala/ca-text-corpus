@@ -5204,7 +5204,6 @@ secretària ==>
 seguiran ==> 
 sensacional ==> 
 sentís ==> 
-series ==> 
 sirena ==> 
 sobiranistes ==> 
 sorolls ==> 
@@ -9689,7 +9688,6 @@ temptacions ==>
 timidesa ==> 
 tinguéssim ==> 
 tiro ==> 
-tope ==> 
 torneu ==> 
 tothora ==> 
 traca ==> 
