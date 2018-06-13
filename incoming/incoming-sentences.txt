@@ -5508,7 +5508,7 @@ sortís ==>
 sotmesa ==> 
 sumat ==> 
 suposem ==> 
-suècia ==> 
+Suècia ==> 
 suïcidi ==> 
 t'adones ==> 
 tancant ==> 
@@ -5536,7 +5536,6 @@ voluntàriament ==>
 xics ==> 
 àlbums ==> 
 íntegrament ==> 
-Eivissa ==> 
 Finlàndia ==> 
 Gandesa ==> 
 Marcel ==> 
@@ -5764,7 +5763,6 @@ proporcional ==>
 publicarà ==> 
 puntetes ==> 
 quedés ==> 
-quintana ==> 
 ranci ==> 
 realitzats ==> 
 rebuts ==> 
@@ -5854,7 +5852,7 @@ barbàrie ==>
 basar ==> 
 bastants ==> 
 bilingüe ==> 
-borràs ==> 
+Borràs ==> 
 bronze ==> 
 bústia ==> 
 cabré ==> 
