@@ -5,8 +5,8 @@ This repository collects some public domain sentences in Catalan language.
 ## Data files
 | Data file        | Description | Source | Import date |
 | ------------- |-------------| -----| ---- |
-| [common-short-sentences.txt](./data/common-short-sentences.txt) | Common short sentences founded at different corpora | 10 corpora | 2018 |
-| [refranys-frequents.txt](./data/refranys-frequents.txt) | 100 proverbs | Popular knowledge  | 2018 |
+| [common-short-sentences.txt](./data/common-short-sentences.txt) | Very common short sentences found in different corpora | At least 10 occurrences in different corpora | 2018 |
+| [refranys-frequents.txt](./data/refranys-frequents.txt) | 125 proverbs | Popular knowledge  | 2018 |
 | [tocqueville.txt](./data/tocqueville.txt) | Tocqueville's translated text to Catalan | Translator himself  | 2018 |
 
 ## License
