@@ -1,5 +1,6 @@
 # Entreu frases inventades, no copiades d'altres fonts.
 # Tot el text que poseu ací es considerarà de domini públic. 
+# Feu servir exactament la forma de la paraula que es demana (en nombre, gènere, flexió, apostrofació...). 
 # Les frases no han de donar cap error en el corrector LanguageTool (en qualsevol variant de la llengua). 
 
 català ==> El català és una llengua romànica.
