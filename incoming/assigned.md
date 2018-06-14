@@ -22,5 +22,7 @@ Recordeu:
 [sentences004](./sentences004) =>
 ....
 
-# Fitxers finalitzats
+# Fitxers acabats
 [sentences000](./sentences000) => jmontane
+
+[sentences003](./sentences003) => jaumeortola
