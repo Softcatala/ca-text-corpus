@@ -13,7 +13,7 @@ Recordeu:
 # Fitxers assignats
 [sentences000](./sentences000) => jmontane
 
-[sentences001](./sentences001) =>
+[sentences001](./sentences001) => jmontane
 
 [sentences002](./sentences002) =>
 
@@ -21,3 +21,4 @@ Recordeu:
 ....
 
 # Fitxers finalitzats
+[sentences000](./sentences000) => jmontane
