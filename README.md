@@ -10,7 +10,7 @@ This repository collects some public domain sentences in Catalan language.
 | [tocqueville.txt](./data/tocqueville.txt) | Selected sentences by Tocqueville translated into Catalan | Translator himself  | 2018 |
 
 ## License
-Files from [data](./data) directory are released under [CC-0 licence](https://creativecommons.org/choose/zero/?lang=ca)
+Files from [data](./data) directory are released under [CC-0 license](https://creativecommons.org/choose/zero/?lang=ca)
 
 
 
