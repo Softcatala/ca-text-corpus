@@ -11,7 +11,7 @@ Recordeu:
 5. Feu frases completes amb sentit. Comenceu-les amb majúscula i acabeu-les amb punt o signe d'interrogació o exclamació.
 
 # Fitxers assignats
-[sentences000](./sentences000) => jmontane
+~~[sentences000](./sentences000)~~ => jmontane
 
 [sentences001](./sentences001) => jmontane
 
