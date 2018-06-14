@@ -15,7 +15,7 @@ Recordeu:
 
 [sentences001](./sentences001) => jmontane
 
-[sentences002](./sentences002) =>
+[sentences002](./sentences002) => cescfamadas
 
 [sentences003](./sentences003) =>
 ....
