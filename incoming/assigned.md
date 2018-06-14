@@ -8,6 +8,7 @@ Recordeu:
 2. Tot el text que poseu ací es considerarà de domini públic i CC-0.
 3. Feu servir exactament la forma de la paraula que es demana (en nombre, gènere, flexió, apostrofació...). 
 4. Les frases no han de donar cap error en el corrector LanguageTool (en qualsevol variant de la llengua).
+5. Feu frases completes amb sentit. Acabeu-les amb punt o signe d'interrogació o exclamació.
 
 # Fitxers assignats
 [sentences000](./sentences000) => jmontane
