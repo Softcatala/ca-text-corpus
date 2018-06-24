@@ -1,7 +1,7 @@
 A baix.
 A casa.
 A continuació té la paraula el senyor diputat.
-A continuació votarem el punt número 10.
+A continuació votarem el punt número deu.
 A continuació votarem la resta de la moció.
 A dalt.
 A mi em sembla que no.
@@ -177,7 +177,6 @@ Amb què?
 Amb tu.
 Amics?
 Amor meu!
-Amor.
 Amunt València!
 Amunt.
 Amén.
@@ -195,8 +194,6 @@ Aneu amb compte!
 Aneu amb compte.
 Aneu!
 Aneu-vos-en!
-Anna.
-Any 2015.
 Apa!
 Apa, anem!
 Apa, som-hi!
@@ -250,8 +247,6 @@ Aquí la teniu.
 Aquí mateix.
 Aquí no hi ha res.
 Aquí no.
-Aquí!
-Aquí.
 Aquí?
 Ara descansa.
 Ara dorm.
@@ -471,7 +466,7 @@ Com és?
 Com?
 Comencem la votació.
 Comencem.
-Comença la votació del punt 2.
+Comença la votació del punt dos.
 Comença la votació.
 Completament d'acord.
 Completament.
@@ -517,11 +512,9 @@ Cuita!
 Cuiteu!
 Curiós, oi?
 Curiós.
-Curs 2013-2014.
-Curs 2014-2015.
 Càntic dels pelegrinatges.
 Càntic.
-D'acord amb l'article 126.1 del Reglament, s'admet a tràmit.
+D'acord amb l'article cent vint-i-sis apartat u del Reglament, s'admet a tràmit.
 D'acord, d'acord.
 D'acord, doncs.
 D'acord.
@@ -703,7 +696,7 @@ El primer.
 El que fos.
 El que sigui.
 El què?
-El recordem amb 14 pensaments seus.
+El recordem amb catorze pensaments seus.
 El segon punt.
 El segon.
 El següent!
@@ -1041,7 +1034,7 @@ Espero que sí.
 Espero.
 Espies!
 Esplèndid!
-Estat de despeses: exercici 2012.
+Estat de despeses: exercici dos mil dotze.
 Estava a punt de plorar.
 Estava atrapat.
 Estava buida.
@@ -1217,16 +1210,16 @@ Ha de ser així.
 Ha de tornar.
 Ha demostrat ser un sector resistent a la crisi.
 Ha desaparegut.
-Ha estat aprovada per 105 vots a favor, 18 en contra i 9 abstencions.
-Ha estat aprovada per 109 vots a favor i 21 en contra.
+Ha estat aprovada per cent cinc vots a favor, divuit en contra i nou abstencions.
+Ha estat aprovada per cent nou vots a favor i vint-i-un en contra.
 Ha passat alguna cosa?
 Ha passat molt de temps.
-Ha quedat aprovada per 131 vots a favor, cap en contra i cap abstenció.
+Ha quedat aprovada per cent trenta-un vots a favor, cap en contra i cap abstenció.
 Ha quedat clar?
 Ha!
 Ha, ha, ha!
 Habitatge.
-Han estat rebutjades per 23 vots a favor, 106 en contra i 3 abstencions.
+Han estat rebutjades per vint-i-tres vots a favor, cent sis en contra i tres abstencions.
 Han presentat esmenes tres grups parlamentaris.
 Has dormit bé?
 Has vingut!
@@ -1728,7 +1721,7 @@ L'acte de l'escrutini general no es pot interrompre.
 L'efecte va ser immediat.
 L'enhorabona.
 L'escolto.
-L'esmena ha estat rebutjada per 10 vots a favor, 110 en contra i 11 abstencions.
+L'esmena ha estat rebutjada per deu vots a favor, cent deu en contra i onze abstencions.
 L'esperava.
 L'estimava.
 L'estimo.
@@ -2515,7 +2508,7 @@ Passa.
 Passem a la cinquena votació.
 Passem a la novena votació.
 Passem a la quarta votació.
-Passem a votar el punt 3.
+Passem a votar el punt tres.
 Passeu, passeu.
 Passeu.
 Passi el que passi.
@@ -2780,7 +2773,6 @@ Probablement tens raó.
 Probablement.
 Projecte de llei del voluntariat.
 Promet-m'ho.
-Proposta de resolució 10.
 Proposta de resolució.
 Proposta de tramitació en lectura única.
 Prosseguiu.
@@ -2792,8 +2784,6 @@ Provem-ho.
 Puc passar?
 Puc?
 Pum!
-Punt 1.
-Punt 2.
 Punt final.
 Punt.
 Punyeta!
@@ -3212,7 +3202,7 @@ Se'n va.
 Se'n van.
 Secció tercera.
 Segon element.
-Segon trimestre de 2015.
+Segon trimestre de dos mil quinze.
 Segona cosa que li volia dir.
 Segona reflexió.
 Segona votació.
@@ -3834,12 +3824,12 @@ Vostè mateix.
 Vostè?
 Vostès ho saben.
 Vostès.
-Votarem el punt número 1.
+Votarem el punt número u.
 Votarem seguidament les esmenes del Grup Mixt.
-Votem ara el punt 10.
+Votem ara el punt deu.
 Votem ara la resta de la moció.
-Votem el punt 11.
-Votem la número 20.
+Votem el punt onze.
+Votem la número vint.
 Votem la resta de la moció.
 Votem seguidament la resta de la moció.
 Votem seguidament les esmenes del Grup Mixt.
