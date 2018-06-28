@@ -6,7 +6,7 @@ This repository collects some public domain sentences in Catalan language.
 | Data file        | Description | Source | Import date |
 | ------------- |-------------| -----| ---- |
 | [common-short-sentences.txt](./data/common-short-sentences.txt) | Very common short sentences found in different corpora with at least 10 occurrences | Different corpora | 2018 |
-| [widespread-proverbs.txt](./data/widespread-proverbs.txt) | 125 proverbs | Popular knowledge  | 2018 |
+| [proverbs.txt](./data/proverbs.txt) | 8K proverbs | Popular knowledge  | 2018 |
 | [tocqueville.txt](./data/tocqueville.txt) | Selected sentences by Tocqueville translated into Catalan | Translator himself  | 2018 |
 | [dogc.txt](./data/dogc.txt) | Selected sentences from Diari Oficial de la Generalitat de Catalunya (Catalan official publication journal) | [dogc.gencat.cat](http://dogc.gencat.cat)  | 2018 |
 | [dogv.txt](./data/dogv.txt) | Selected sentences from Diari Oficial de la Generalitat Valenciana (Valencian official publication journal) | [dogv.gva.es](http://www.dogv.gva.es/)  | 2018 |
