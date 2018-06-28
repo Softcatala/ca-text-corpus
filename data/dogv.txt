@@ -1427,7 +1427,7 @@ En el cas que el titular no dispose res, la inhumació s'ha de fer en la fossa c
 En el cas que fóra festiu es realitzarà el següent dia laborable.
 En el cas que hi haja excedència de materials, hauran de ser retirats per gestor autoritzat.
 En el cas que hi resulten insuficients, ha d'estendre de noves en les pàgines destinades a observacions.
-En el cas que l'aprofitament siga tèrmic es prendrà com a cost de referència mil cent euros per quilowat.
+En el cas que l'aprofitament siga tèrmic es prendrà com a cost de referència mil cent euros per quilovat.
 En el cas que no existisca l'esmentat ordinal, el termini expirarà l'últim dia del mes.
 En el cas que no s'emeta resolució en el termini de quinze dies, el silenci tindrà efecte estimatori.
 En el cas que no s'observen deficiències, l'ajuntament atorgarà la llicència d'obertura.
@@ -1561,7 +1561,7 @@ Es consideraran només projectes la inversió dels quals siga superior a quatre 
 Es consideraren només projectes la inversió dels quals siga superior a sis mil euros.
 Es considerarà nocturna tota la jornada si comença i acaba entre les vint-i-una i les set hores.
 Es considerarà treballador agrícola desocupat aquell que acredite la seua condició agrària.
-Es construiran bermes intermèdies cada tres metres d'altura en els talussos que superen els cin metres de desnivell.
+Es construiran bermes intermèdies cada tres metres d'altura en els talussos que superen els cinc metres de desnivell.
 Es convoquen per a l'exercici del dos mil cinc les ajudes econòmiques a què fa referència l'article primer.
 Es crearà una comissió de salut laboral la composició de la qual serà paritària.
 Es cuidarà que els contrastos causen enlluernaments, com succeïx entre el blanc i el negre.
@@ -1935,7 +1935,7 @@ L'alumne, o els seus representants legals, signarà l'acceptació d'aquestes con
 L'al·legació no conté consideracions de caràcter ambiental.
 L'al·legació presentada no respon al tipus d'al·legació de caràcter ambiental.
 L'alçament d'actes tindrà lloc el dia quinze de novembre de dos mil deu a l'Ajuntament de Paterna.
-L'alçament d'actes tindrà lloc els pròxims dies vint-i-set, vint-i-huit, vint-i-nou i trenta de setembre de dos mil deu i quatre d'octubre de dos meil deu.
+L'alçament d'actes tindrà lloc els pròxims dies vint-i-set, vint-i-huit, vint-i-nou i trenta de setembre de dos mil deu i quatre d'octubre de dos mil deu.
 L'alçària de cornisa màxima és de deu metres per a tres plantes i quatre metres per a una planta.
 L'ampliació d'activitat proposada no afectarà el règim hídric de la zona.
 L'amplària de la calçada serà entre tres coma cinc i quatre coma cinc metres per a l'accés d'un camió grua perquè alce la torre.
@@ -2293,7 +2293,7 @@ La Llei vint-i-nou de mil nou-cents noranta-quatre, de vint-i-quatre de novembre
 La llengua de què es realitze l'exercici no podrà ser valorada com a mèrit.
 La llinda és una tanca de mur de fàbrica de bloc de dos coma quaranta-cinc metres d'alçària.
 La longitud de la canonada de desaigüe serà de huit-cents huitanta-huit metres i s'executarà amb PVC corrugat.
-La longitud del tronc de l'actuació és de sis mil sis-cents seixanta-hui coma huit-cents setanta-huit metres.
+La longitud del tronc de l'actuació és de sis mil sis-cents seixanta-huit coma huit-cents setanta-huit metres.
 La línia Benidorm — la Nucia acaba en la Societat Temàtica Terra Mítica, amb una longitud aproximada de dos mil nou-cents metres.
 La línia elèctrica pot portar amb si afectació a aus, i per tant hauran d'habilitar-se mesures correctores.
 La línia té una longitud de dotze mil sis-cents huitanta-huit metres, dos mil cent cinquanta-dos metres en subterrani i deu mil cinc-cents trenta-sis metres en aeri.
@@ -2719,7 +2719,7 @@ Manté conversacions en llengua anglesa, senzilles i rutinàries del sector, int
 Manté el pas de guàrdia de la muralla en el seu llenç nord.
 Mantín la calma.
 Marc mèdic ètic i legal de col·laboració i suport en el maneig, tractament o transport d'aquests malalts.
-Marco redó de seixanta cenímetres de llum lliure.
+Marco redó de seixanta centímetres de llum lliure.
 Marqueu amb una X.
 Material de marxandatge en què aparega explícitament la campanya de promoció del valencià.
 Memòria explicativa: l'opositor farà una explicació descriptiva de les parts del projecte.
