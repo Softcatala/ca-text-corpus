@@ -234,7 +234,7 @@ Aprovar els Estatus, les Bases d'actuació i les modificacions que siguin acorda
 Aprovar els estatuts reguladors del Consorci del Ter que figuren a l'expedient.
 Aprovar els projectes d'obres, instal·lacions i serveis la contractació dels quals sigui competent.
 Aprovar i adjudicar els contractes l'import dels quals superi el vint per cent dels recursos ordinaris del pressupost.
-Aprovar les bases han de regir aquesta convocatòria i que figuren com a annex en aquesta Resolució.
+Aprovar les bases que han de regir aquesta convocatòria i que figuren com a annex en aquesta Resolució.
 Aprovar les bases que regulen aquests concursos i que es relacionen en l'annex primer d'aquesta convocatòria.
 Aprovar les regles específiques d'aquest procés participatiu que figuren com a Annex al present Decret.
 Aprovar les variacions pressupostàries que sobrepassin la xifra que la Junta mateixa estableixi durant l'exercici.
@@ -2014,7 +2014,7 @@ Gestiona els nomenaments de personal interí i les propostes de contractació.
 Gestiona els procediments d'accés a les borses d'interins de cada cos docent.
 Gestiona els sistemes d'arxius, buscant i seleccionant amb mitjans informàtics la informació necessària.
 Gestiona i controla les compres de la secretaria.
-Gestiona i dona resposta a les consultes procedents de particulars, jardiners i ajuntaments.
+Gestiona i dóna resposta a les consultes procedents de particulars, jardiners i ajuntaments.
 Gestiona l'execució de l'activitat, definint el procediment de seguiment i control.
 Gestiona l'extracció del suro caracteritzant les tècniques, els processos i els factors implicats.
 Gestiona l'intercanvi d'informació entre el Registre autonòmic i el Registre estatal.
@@ -3144,7 +3144,7 @@ Organitza sessions de supervisió i formació per als professionals que col·lab
 Organitza, assigna i supervisa les feines del personal del Servei.
 Organització de lluites i espectacles que provoquin sofriment, lesions o la mort dels animals.
 Organitzarà les festes des del consens i la participació ciutadana.
-Orienta als clients sobre la ubicació de la mercaderia.
+Orienta els clients sobre la ubicació de la mercaderia.
 Orientació educativa, acadèmica i professional de l'alumnat en col·laboració, si escau, amb les famílies.
 Original de tots els documents que s'ha aportat fotocopia.
 Orquestra simfònica que desenvolupi una activitat itinerant majoritàriament a Catalunya.
@@ -3845,7 +3845,7 @@ Supervisa les obres de rehabilitació i millora en els habitatges administrats i
 Supervisa les resolucions per a l'autorització d'ensenyaments en els centres públics.
 Supervisa les sol·licituds de llicències de supervisor i operador.
 Supervisar i organitzar les tasques que realitzen els oficials segona i peons que li siguin assignats.
-Supervisar que a cada centre es duen a terme els diferents exercicis que componen les proves.
+Supervisar que en cada centre es duen a terme els diferents exercicis que componen les proves.
 Supervisar que les tasques que realitza l'equip de treball disposi de les mesures de seguretat apropiades.
 Supòsits legals en què és procedent la detenció.
 Sé aprendre?
