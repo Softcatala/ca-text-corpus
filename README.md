@@ -11,6 +11,7 @@ This repository collects some public domain sentences in Catalan language.
 | [dogc.txt](./data/dogc.txt) | Selected sentences from Diari Oficial de la Generalitat de Catalunya (Catalan official publication journal) | [dogc.gencat.cat](http://dogc.gencat.cat)  | 2018 |
 | [dogv.txt](./data/dogv.txt) | Selected sentences from Diari Oficial de la Generalitat Valenciana (Valencian official publication journal) | [dogv.gva.es](http://www.dogv.gva.es/)  | 2018 |
 | [riuraueditors.txt](./data/riuraueditors.txt) | Selected sentences from works published by Riurau Editors | Publisher itself | 2018 |
+| [sofcatala.txt](./data/sofcatala.txt) | Selected sentences from Softcatalà's web page | Softcatalà | 2018 |
 
 ## License
 Files from [data](./data) directory are released under [CC-0 license](https://creativecommons.org/choose/zero/?lang=ca)
