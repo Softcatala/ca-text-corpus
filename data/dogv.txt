@@ -1275,7 +1275,7 @@ Els recursos econòmics del Col·legi seran ordinaris i extraordinaris.
 Els recursos extraordinaris, per a ser rebuts, necessitaran l'aprovació de la Junta de Govern del Col·legi.
 Els relacionats en el plec de clàusules economicoadministratives que regeix l'alienació.
 Els rendiments financers derivats dels cabals aliens que tinguen en depòsit o administre.
-Els reposabraços d'existir seran abatibles.
+Els reposabraços, en cas d'existir, seran abatibles.
 Els residus que no complisquen aquests requisits hauran de ser gestionats per empreses certificades.
 Els residus s'han d'entregar a un gestor autoritzat per a aquesta activitat, tal com consta en el projecte.
 Els residus sòlids inerts han de gestionar-se en abocadors autoritzats, com indica l'estudi d'impacte ambiental.
