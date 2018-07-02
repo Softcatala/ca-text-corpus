@@ -4619,6 +4619,7 @@ Lluna morta poc peix porta.
 Lluna morta, aigua a la porta.
 Lluna morta, llevant a la porta.
 Lluna naixent vermellosa, ventada grossa.
+Lluna nova amb torbonada, trenta dies mullada.
 Lluna nova de febrer, primer diumenge de quaresma.
 Lluna nova de gener molta pluja duu al darrer.
 Lluna nova en dijous no val tres sous.
@@ -4652,7 +4653,6 @@ Lluna rogent, pluja o vent.
 Lluna roja d'abril porta gran perill.
 Lluna roja de novembre s'enduu tota la sembra.
 Lluna roja el vent remou.
-Lluna roja, el vent remou Lluna nova amb torbonada, trenta dies mullada.
 Lluna roja, gelada forta.
 Lluna roja, molts vents porta.
 Lluna roja, ventada boja.
