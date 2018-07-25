@@ -1429,8 +1429,8 @@ Els grups de treball poden convidar persones expertes vinculades a l'objecte de 
 Els grups també hauran d'adaptar-se al material tècnic de què disposi el teatre.
 Els guanyadors d'aquesta modalitat passaran a la fase estatal com a representants de Catalunya.
 Els horaris són fixos i no hi ha rotació entre matí, tarda i nit.
-Els i les aspirants admesos, un cop siguin nomenats iniciaran un període de prova de quatre mesos.
-Els i les aspirants disposaran d'un termini màxim de quaranta-cinc minuts per contestar les preguntes formulades.
+Els aspirants admesos, un cop siguin nomenats iniciaran un període de prova de quatre mesos.
+Els aspirants disposaran d'un termini màxim de quaranta-cinc minuts per contestar les preguntes formulades.
 Els imports actualitzats consten en l'annex d'aquesta Ordre.
 Els informes que puguin emetre les persones consultades es tindran en compte a l'hora de valorar el projecte.
 Els instruments de descripció fonamentals són guies, inventaris, catàlegs, registres, índexs, etcètera.
@@ -1957,7 +1957,7 @@ Funció: accessori que permet modificar la posició de l'esquena per mantenir in
 Funció: amplia el so, sense perjudicar persones properes.
 Funció: augmenta l'alçària de l'inodor per facilitar la transferència i facilita aixecar-se i asseure's.
 Funció: avisa amb senyals visuals, com llampecs de llum en cas d'incendi.
-Funció: base amb prolongadors de pedals per a usuaris i usuàries que no arriben als pedals.
+Funció: base amb prolongadors de pedals per a usuaris que no arriben als pedals.
 Funció: descriu el contingut de la pantalla mitjançant la síntesi de veu.
 Funció: despertador que avisa amb senyals lluminosos o vibratoris.
 Funció: disminueix l'esforç de l'assistent en empènyer la cadira de rodes.
@@ -2167,7 +2167,7 @@ Investigar i resoldre les queixes que se li presentin i les actuacions que trami
 Isabel Campos González, responsable de Coordinació de Gestió i Despatx, que actuarà com a vocal.
 Ja gaudeixi d'una beca atorgada per institucions públiques o privades pel mateix concepte.
 Jordi Gil i Pujol, subdirector general d'Afers Interdepartamentals, que actuarà com a president.
-Jornada adaptada a l'horari d'obertura de les instal·lacions, el que pot suposar treballar en jornada partida.
+Jornada adaptada a l'horari d'obertura de les instal·lacions, cosa que pot suposar treballar en jornada partida.
 Justifica les raons de l'home per vestir-se analitzant-ne les motivacions.
 Justifica les raons de l'ésser humà per vestir-se analitzant les seves motivacions.
 Justificant de qualsevol altre tipus d'ingrés que rebi qualsevol dels membres de la unitat familiar.
@@ -3578,7 +3578,7 @@ Rep, revisa i incorpora a l'expedient la documentació aportada per les persones
 Repeteixen curs.
 Representarà l'ajuntament en les relacions amb les entitats culturals.
 Requereix per tant, un espai físic de privacitat en un ambient tranquil i distès.
-Requisits específics del contractista: veieu el plec de clàusules administratives.
+Requisits específics del contractista: vegeu el plec de clàusules administratives.
 Res d'això trobem en el precepte qüestionat.
 Rescatar la concessió abans del seu venciment si ho justifiquen circumstàncies d'interès públic.
 Resol els recursos de reposició plantejats en via d'inspecció.
