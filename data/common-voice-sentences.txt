@@ -157,7 +157,7 @@ Senterada és a la Vall Fosca.
 Que vens d'Arbeca?
 De Joseps, Joans i ases, n'hi ha a totes les cases.
 Els excursionistes es van desorientar i se'ls va fer de nit.
-Algú ens pot recomanar un bon restaurant?
+Algú ens pot comanar un bon restaurant?
 Les princeses Disney no porten mai rebequetes.
 El volant del Lamborghini és de pell de pantera.
 He vist Mallorca des de la Talaia!
@@ -174,7 +174,7 @@ Això no ho resisteixo ni un dia més.
 Quines ganes de fer vacances.
 La vedella de Mollerussa té un gustet especial.
 Sortirem amb barca, Eduard.
-Intento no pensar-hi, però tanco els ulls i només veig el seu paquet.
+Intento no pensar-hi, però tanco els ulls i només el veig a ell.
 Martínez, no m'expliquis històries!
 Serem cinc a dinar, tres adults i dos nens.
 No hi ha manera que s'aprengui les taules de multiplicar.
@@ -763,7 +763,7 @@ Reserva places de pàrquing per Internet.
 En va fer tres, de xats simultanis!
 Rega l'hortènsia, Margarida.
 Les icones del mòbil cada vegada són més expressives.
-Van estar cardant fins a les tres, si fa no fa.
+Van estar parlant fins a les tres, si fa no fa.
 No activis l'altaveu, deixa el mòbil en mode vibració.
 Son pare feia de camell i sa mare de mula.
 Va llegir un manual de MySQL.
