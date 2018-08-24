@@ -14,6 +14,9 @@ This repository collects some public domain sentences in Catalan language.
 | [sofcatala.txt](./data/sofcatala.txt) | Selected sentences from Softcatalà's web page | Softcatalà | 2018 |
 | [programari-lliure-llibre.txt](./data/programari-lliure-llibre.txt) | Selected sentences from the book 'Programari lliure: tècnicament viable, econòmicament sostenible i socialment just' | Jordi Mas | 2018 |
 | [common-voice-sentences.txt](./data/common-voice-sentences.txt) | Senteces written specifically for Common Voice | Montserrat Nadal *et alii* | 2018 |
+| [muni-bal.txt](./data/muni-bal.txt) | Balear town names | Public domain | 2018 |
+| [muni-cat.txt](./data/muni-cat.txt) | Catalan town names | Public domain | 2018 |
+| [muni-val.txt](./data/muni-val.txt) | Valencian town names | Public domain | 2018 |
 
 
 ## License
