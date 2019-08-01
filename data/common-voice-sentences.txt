@@ -179,7 +179,7 @@ Serem cinc a dinar, tres adults i dos nens.
 No hi ha manera que s'aprengui les taules de multiplicar.
 A veure quan endreçaràs l'habitació.
 Gira, Faraona!
-La Lurdes treballa a l'INEM.
+La Lurdes treballa al Servei Català d'Ocupació.
 Si tingués bona connectivitat aniria una mica més de pressa.
 S'havia fotut dos gintònics i ja li patinava la neurona; no sap beure.
 A veure, tu m'escoltes, quan parlo?
@@ -309,7 +309,7 @@ El web dels filatèlics té un botó per sucar-hi el dit.
 El personal de correus és un dels col·lectius més soferts.
 El premi que va rebre és una copa daurada amb incrustacions argentades.
 Al setembre anirem a collir pel Josep de Carro.
-El PP és un partit polític.
+El Partit Popular és un partit polític.
 La dinàmica cultural m'embafa.
 Els divendres m'agrada fer un vinet.
 El juny és el millor mes de l'any.
@@ -495,7 +495,6 @@ Em sembla genial que l'hagis coneguda a Tinder!
 Els grillats estan tots tancats a l'antiga llotja.
 Només ens en falta la meitat, oi?
 No em maregis més, Cuca!
-Aniràs a L'Illa Diagonal, entraràs a la FNAC i et compraràs un carregador portàtil per al mòbil.
 És una lectura tan avorrida que m'ha caigut el llibre a la cara quan el llegia al llit.
 De veritat que la Paula té polls?
 M'avorreixo com una ostra, però aviat faré vacances.
@@ -603,7 +602,7 @@ Sa filla es deia Selene.
 Recuperar-se no serà fàcil.
 Tots els papers d'embolicar estan rebregats.
 Jo en vull dos talls.
-Sóc informàtic, però treballo a la RENFE.
+Sóc informàtic, però treballo a Ferrocarils de la Generalitat de Catalunya.
 Tu ets un bandarra, Sebastià!
 Llegint, llegint, se'm van fer les dotze.
 La Tita Cervera és l'hereva moral dels Medici.
@@ -653,7 +652,7 @@ El ritme del swing enganxa.
 Ets el meu salvador, Bernat!
 Quins viatges que fa el ros!
 Antoni, vine, corre!
-El PSOE és un partit amb un lideratge concret.
+El Partit Socialista Obrer Espanyol és un partit amb un lideratge concret.
 Els animals em carreguen.
 La ciutadania té un comportament pèssim en aquest aspecte.
 El consum de figues s'ha estancat, diuen els cooperativistes.
@@ -713,7 +712,7 @@ El processador de text fa coses estranyes amb els guionets.
 Treballes a la indústria del cinema?
 Et refaràs amb un Aquarius de taronja.
 Tantes mentides acaben passant factura.
-Envieu un SMS, si us plau.
+Envieu un missatge, si us plau.
 La Concepció té angines.
 Hi ha una boira molt espessa.
 La Marta no ha picat el bitllet.
@@ -742,7 +741,6 @@ A les quatre de la matinada s'ha disparat l'alarma.
 És molt nerviós.
 El teclat era ple de molles.
 Vaig estar casada amb un historiador.
-El llibre era en format EPUB o PDF?
 Quan ballava sardanes li dringaven els duros a la butxaca.
 Toca molt bé el clarinet.
 Estic cansat de tantes pantalles.
@@ -765,7 +763,7 @@ Les icones del mòbil cada vegada són més expressives.
 Van estar parlant fins a les tres, si fa no fa.
 No activis l'altaveu, deixa el mòbil en mode vibració.
 Son pare feia de camell i sa mare de mula.
-Va llegir un manual de MySQL.
+Va llegir un manual de programació.
 Criaven cavalls als afores de Ribes.
 Era una app molt útil per als turistes alemanys.
 Em subleva que em diguin que faig faltes.
@@ -942,7 +940,6 @@ La Marina juga al bingo.
 La festa de la Mercè és el patíbul de l'estiu.
 Els participants de la mitja marató es van queixar perquè al camí hi havia poca ombra.
 De París, me n'agraden les dimensions.
-El portal de l'Associació era fet amb HTML dinàmic.
 Et recomano un pegat d'herbes.
 No tindrem tanta sort, Ferran!
 El tomàquet cada dia és més car.
