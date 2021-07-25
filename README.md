@@ -35,7 +35,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
     <tr>
       <td>name</td>
-      <td><code itemprop="name">This repository collects some public domain sentences in Catalan language..</code></td>
+      <td><code itemprop="name">This repository collects some public domain sentences in Catalan language.</code></td>
     </tr>
     <tr>
       <td>description</td>
