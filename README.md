@@ -20,7 +20,7 @@ This repository collects some public domain sentences in Catalan language.
 
 
 ## License
-Files from [data](./data) directory are released under [CC-0 license](https://creativecommons.org/choose/zero/?lang=ca)
+Files from [data](./data) directory are released under [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/deed.ca).
 
 # Metadescription
 
